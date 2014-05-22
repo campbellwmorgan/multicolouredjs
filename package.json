@@ -1,0 +1,32 @@
+{
+  "name": "MultiColoured.js",
+  "version": "0.0.1",
+  "description": "JQuery Plugin for creating multi-coloured text",
+  "main": "dist/multi-coloured.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/campbellwmorgan/multicolouredjs.git"
+  },
+  "keywords": [
+    "color",
+    "font",
+    "multicoloured",
+    "multicolored"
+  ],
+  "author": "Campbell Morgan <campbellmorgan@gmail.com>",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/campbellwmorgan/multicolouredjs/issues"
+  },
+  "homepage": "https://github.com/campbellwmorgan/multicolouredjs",
+  "devDependencies": {
+    "gulp-uglify": "^0.3.0",
+    "gulp": "^3.6.2",
+    "gulp-coffee": "^1.4.3",
+    "coffee-script": "^1.7.1",
+    "gulp-rename": "^1.2.0"
+  }
+}

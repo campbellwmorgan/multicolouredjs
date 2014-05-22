@@ -1,0 +1,27 @@
+{
+  "name": "MultiColoured.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/campbellwmorgan/multicolouredjs",
+  "authors": [
+    "Campbell Morgan <campbellmorgan@gmail.com>"
+  ],
+  "description": "JQuery Plugin for creating multi-coloured text",
+  "main": "dist/multi-coloured.js",
+  "keywords": [
+    "Color",
+    "Font",
+    "Multi-colored",
+    "multi-coloured"
+  ],
+  "license": "Apache2",
+  "dependencies":{
+    "jquery":"~1.7"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
